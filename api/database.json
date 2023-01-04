@@ -1,0 +1,72 @@
+{
+    "computers": [
+        {
+            "id": 1,
+            "model": "Macbook Pro",
+            "year": 2015
+        },
+        {
+            "id": 2,
+            "model": "i7-7700k custom",
+            "year": 2017
+        },
+        {
+            "id": 3,
+            "model": "Lenovo Ideapad",
+            "year": 2022
+        },
+        {
+            "id": 4,
+            "model": "Ryzen 2200g custom",
+            "year": 2020
+        },
+        {
+            "id": 5,
+            "model": "Mac Mini",
+            "year": 2011
+        },
+        {
+            "id": 6,
+            "model": "Dell Laptop",
+            "year": 2022
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "firstName": "Rainu",
+            "lastName": "Ittycheriah",
+            "computerId": 1
+        },
+        {
+            "id": 2,
+            "firstName": "Swagbot",
+            "lastName": "Billy",
+            "computerId": 2
+        },
+        {
+            "id": 3,
+            "firstName": "Will",
+            "lastName": "Hedges",
+            "computerId": 3
+        },
+        {
+            "id": 4,
+            "firstName": "Jordan",
+            "lastName": "Hedges",
+            "computerId": 4
+        },
+        {
+            "id": 5,
+            "firstName": "Sammy",
+            "lastName": "Hedges",
+            "computerId": 5
+        },
+        {
+            "id": 6,
+            "firstName": "Nurse",
+            "lastName": "Jo",
+            "computerId": 6
+        }
+    ]
+}
